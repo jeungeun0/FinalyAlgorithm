@@ -7,5 +7,7 @@
 
 import Foundation
 
-print("Hello, World!")
-
+//10926
+let input = readLine()
+let output = (input ?? "") + "??!"
+print(output)
