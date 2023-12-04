@@ -57,7 +57,7 @@
 		5A7B77A82B1C54100035DE40 = {
 			isa = PBXGroup;
 			children = (
-				5A7B77B32B1C54100035DE40 /* 백준 */,
+				5A7B77B32B1C54100035DE40 /* BaekJoon */,
 				5A7B77B22B1C54100035DE40 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -70,7 +70,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5A7B77B32B1C54100035DE40 /* 백준 */ = {
+		5A7B77B32B1C54100035DE40 /* BaekJoon */ = {
 			isa = PBXGroup;
 			children = (
 				5A7B77C12B1C5C850035DE40 /* main.swift */,
@@ -91,7 +91,7 @@
 				5A7B77D02B1DB44D0035DE40 /* 2525.swift */,
 				5A7B77D12B1DBF450035DE40 /* 2480.swift */,
 			);
-			name = "백준";
+			name = BaekJoon;
 			path = "백준";
 			sourceTree = "<group>";
 		};
