@@ -7,7 +7,6 @@
 
 import Foundation
 
-
 final class FileIO {
     private let buffer:[UInt8]
     private var index: Int = 0
