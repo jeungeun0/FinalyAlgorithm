@@ -6,3 +6,20 @@
 //
 
 import Foundation
+
+let total = Int(readLine()!)!
+let kindCound = Int(readLine()!)!
+
+var result = 0
+for _ in 1...kindCound {
+    let priceAndCount = readLine()!.split(separator: " ")
+    let price = Int(priceAndCount.first!)!
+    let count = Int(priceAndCount.last!)!
+    result += price * count
+}
+
+if total == result {
+    print("Yes")
+} else {
+    print("No")
+}

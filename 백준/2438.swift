@@ -6,3 +6,16 @@
 //
 
 import Foundation
+
+
+let fIO = FileIO()
+
+let n = fIO.readInt()
+
+for i in 1...n {
+    var result = ""
+    for _ in 1...i {
+        result += "*"
+    }
+    print(result)
+}

@@ -23,6 +23,15 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		5A17E1B22B25A37E0010D544 /* 2739.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2739.swift; sourceTree = "<group>"; };
+		5A17E1B32B25A3A30010D544 /* 10950.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10950.swift; sourceTree = "<group>"; };
+		5A17E1B42B25A3BD0010D544 /* 8393.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 8393.swift; sourceTree = "<group>"; };
+		5A17E1B52B25A3DF0010D544 /* 25304.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 25304.swift; sourceTree = "<group>"; };
+		5A17E1B62B25A3FA0010D544 /* 25314.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 25314.swift; sourceTree = "<group>"; };
+		5A17E1B72B25A4110010D544 /* FileIO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileIO.swift; sourceTree = "<group>"; };
+		5A17E1B82B25A4330010D544 /* 11021.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11021.swift; sourceTree = "<group>"; };
+		5A17E1B92B25A47D0010D544 /* 11022.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11022.swift; sourceTree = "<group>"; };
+		5A17E1BA2B25A4A40010D544 /* 2438.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2438.swift; sourceTree = "<group>"; };
 		5A7B77B12B1C54100035DE40 /* FinalyAlgorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = FinalyAlgorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A7B77B42B1C54100035DE40 /* 10926.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10926.swift; sourceTree = "<group>"; };
 		5A7B77BB2B1C56870035DE40 /* 1008.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1008.swift; sourceTree = "<group>"; };
@@ -90,6 +99,15 @@
 				5A7B77CF2B1DB0BF0035DE40 /* 2884.swift */,
 				5A7B77D02B1DB44D0035DE40 /* 2525.swift */,
 				5A7B77D12B1DBF450035DE40 /* 2480.swift */,
+				5A17E1B22B25A37E0010D544 /* 2739.swift */,
+				5A17E1B32B25A3A30010D544 /* 10950.swift */,
+				5A17E1B42B25A3BD0010D544 /* 8393.swift */,
+				5A17E1B52B25A3DF0010D544 /* 25304.swift */,
+				5A17E1B62B25A3FA0010D544 /* 25314.swift */,
+				5A17E1B72B25A4110010D544 /* FileIO.swift */,
+				5A17E1B82B25A4330010D544 /* 11021.swift */,
+				5A17E1B92B25A47D0010D544 /* 11022.swift */,
+				5A17E1BA2B25A4A40010D544 /* 2438.swift */,
 			);
 			name = BaekJoon;
 			path = "백준";
