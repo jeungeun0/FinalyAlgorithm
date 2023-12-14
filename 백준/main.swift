@@ -6,10 +6,5 @@
 //
 
 import Foundation
-//10951
+//10810
 
-while let x = readLine() {
-    let xy = x.split(separator: " ")
-    
-    print(Int(xy.first!)! + Int(xy.last!)!)
-}

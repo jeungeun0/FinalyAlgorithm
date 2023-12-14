@@ -53,6 +53,11 @@
 		5A7B77CF2B1DB0BF0035DE40 /* 2884.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2884.swift; sourceTree = "<group>"; };
 		5A7B77D02B1DB44D0035DE40 /* 2525.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2525.swift; sourceTree = "<group>"; };
 		5A7B77D12B1DBF450035DE40 /* 2480.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2480.swift; sourceTree = "<group>"; };
+		5ADDA3E82B26EEAE00A2CC71 /* 10951.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10951.swift; sourceTree = "<group>"; };
+		5ADDA3E92B26F07300A2CC71 /* 10807.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10807.swift; sourceTree = "<group>"; };
+		5ADDA3EA2B26F24F00A2CC71 /* 10871.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10871.swift; sourceTree = "<group>"; };
+		5ADDA3EB2B26F3C300A2CC71 /* 10818.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10818.swift; sourceTree = "<group>"; };
+		5ADDA3EC2B26F54500A2CC71 /* 2562.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2562.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +118,11 @@
 				5A17E1BA2B25A4A40010D544 /* 2438.swift */,
 				5A17E1BC2B25A9710010D544 /* 2439.swift */,
 				5A2CAE602B25AB6E00F1BA65 /* 10952.swift */,
+				5ADDA3E82B26EEAE00A2CC71 /* 10951.swift */,
+				5ADDA3E92B26F07300A2CC71 /* 10807.swift */,
+				5ADDA3EA2B26F24F00A2CC71 /* 10871.swift */,
+				5ADDA3EB2B26F3C300A2CC71 /* 10818.swift */,
+				5ADDA3EC2B26F54500A2CC71 /* 2562.swift */,
 			);
 			name = BaekJoon;
 			path = "백준";
